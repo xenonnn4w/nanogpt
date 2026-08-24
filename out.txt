@@ -1,0 +1,337 @@
+ cpu = _conversion_method_template(device=torch.device("cpu"))
+10.788929 M parameters
+step 0: train loss 4.2221, val loss 4.2306
+step 500: train loss 1.7422, val loss 1.8969
+step 1000: train loss 1.3860, val loss 1.5957
+step 1500: train loss 1.2637, val loss 1.5229
+step 2000: train loss 1.1855, val loss 1.5012
+step 2500: train loss 1.1247, val loss 1.4937
+step 3000: train loss 1.0750, val loss 1.4933
+step 3500: train loss 1.0183, val loss 1.5075
+step 4000: train loss 0.9601, val loss 1.5155
+step 4500: train loss 0.9130, val loss 1.5577
+step 4999: train loss 0.8617, val loss 1.5730
+
+hail, musters. Come, come, let's hence; come; please you.
+
+DORCAS:
+Why, he hath not more ages to Mantua
+Half these coff thrices; the second cloicks of
+More, that these noble councils, she carbs
+Have from bears and praised from mall secure,
+Unwithal cease of so dry and fraise
+With humble, our ampiried fled, and to bear
+Ad continuing first help of the action
+Are not hot to purchase. Brought, Bardine Marcius,
+Here our rest in Corioli did their hid safegrous
+With prontn to prospect that buy fortune's crown.
+
+VOLUMNIA:
+Do it not; nor fear to inquire force thyself.
+Since for an one part and sbend that fatal
+Nor hath countermed to the soul make.
+
+Second Musician:
+What then the duke is dead.
+
+MENENIUS:
+You must be bold, sir, he make: when made
+That widow uttainting that chances that
+Against bathe propose the world,
+Wrath turns malls his sto his sweet boars at mine ease.
+What's wity the nine else to seat? For Thomas madesthings
+Kowing his behalf? Let them not; but, ourself wrath
+In their perts only 'gainst us.
+
+LEONTES:
+So that his sheepherden's habe swarm'd,
+With honour till since in his toot puture
+And reposses him agin. Who lawful adys?
+Shall FORD FITzTES:
+I stay you with her to great post
+At Pemplanted with his head: He
+Will we took here won to the king,
+And reverell'd he spaked at for his own face,
+Gracious maid, duty shrinkle like death!
+We were on the franklest and arms,
+How pressemble to send this of his pathy bod
+To Bianca, and that we have a kneeler'd head
+To intending that, ere he we know
+As you have pass'd: therefore gather,
+My sovere me from unseeng and my son.
+
+Lord Marshal:
+Have I nothing before the king and Keepherd,
+Than he could dising his sword, shall we let supply,
+Which, on though full of the dept it die,
+Love in a day of all her eplicod ever.
+But, let not fight, our town
+Yet and oppose of sweet foul county holer,
+Whill on Warwick and in deform shore his answer,
+To be light a lodging from our fled friends,
+Nor unded a steel, Duke of York in prison;
+Therefore he he slelt undo some as condure
+Love honour with his limbs and within the field.
+
+ESCALUS:
+It s none:
+Why, not Isabel, Luches, and that's at here.
+
+LUCIO:
+Come hither, commend me to my hand.
+
+ISABELLA:
+O that he
+at services what he desires do within this hour,
+By all the bed, the poor else law call't.
+Wilt welcome upon the sad brawls of Montague,
+Dear from the irequest of with that eyes of the fidde?
+Must we can, to repent and a weep,
+To sprink the with tears of blemish;
+We have bandy planch'd him by the blissom.
+And therefore, Clarence will beg.
+For Montague, welcome in those holy ape:
+But once again thy lord's buried, or with sorrow.
+
+CLARENCE:
+O woe, woundy up, I saw you shall spent chamber
+Then to them with such steimonish so much.
+They that prompts the noble duke withazard
+I shall remain to the former's place.
+How now, by not auntsman!
+His plague love is but the looks on us to,
+I'll give our maintants: founding on,
+We shall return tire for time; where I should be counted.
+
+ROMEO:
+In wrapting life no rvile; a little this ballad
+To sacide the purpetual day crag'd it out:
+Death gave I call the singles of a breath,
+And putting a vicasion, fine, ragnify
+It bounds not to plugh lovely in post,
+Nor devour these roses canot to make me by thee
+To stop of thy plot; and thou live,
+Though implant and dispatch'd morn from the downrey.
+Thou ar'd, impedimention to strept me as.
+
+DION:
+Old fifth, I bid more poison and reign--
+
+TIONDELIA:
+O, being flow that do me:
+I, my noble life is born an over--
+
+LEONTES:
+Did out, despair, 'tis a craction for a woman
+from such rember; or mothering, commission, that
+list.
+
+FersLonger:
+I beseech you, she hath abwds
+and in our honour!
+
+POLIXENES:
+Scarce be enribshaped! which, yourself death
+Is since you noble looks all no less.
+These fellows from mine ofitness that that you
+Live to naturase more sword, but rain what it is,
+early ransoms it will.
+
+Shephends:
+This is a Blunck, boy, or else both his,
+that's bought by not wear, but that, in my weakness' cap.
+This place is beastly enjoy'd;
+Richard George the mayor Hurrey hath breathes;
+And what plainly, this king, his powerful was there.
+
+BAP3
+KINGHAM:
+To this be dead! Why, wilt thou see me no that swear.
+
+CATER:
+No, my lord; here comest to be a bawd.
+
+GLOUCESTER:
+Safe that tell her brother must be: butch good came
+My hat brains in your love to his enemy?
+
+First Murderer:
+'Twas to wong order husband, on the noble;
+Anonwing be a town.
+
+First Murderer:
+What will we then, we will allong; for we'll be,
+No left of this world she: 'tis bester
+dish now will, so she'll swear the sky.
+O husband! the nurse all all:
+Her dear and swear and at:
+Thy tenderless are long to so begins are
+That the shady offends up in my hatress' length.
+Tell have me, cold my good lady's way, go with her for the
+pedagree, that I should report take thy father;
+And let myself, in private: thou art thou, and that
+thou hast, too wonder memory frequestion:
+But with I kneel proceedly, and in the approection;
+I'll tell thou thereto what some mean or two
+cortemple can with felling my complexion.
+Thu becive too, giving thy broe this hand, and aN exapene.
+
+CAPULET:
+The sun sentenced plucks in London: have you dished
+Think you show't an other first to do so;
+The napking o' the rack, and, Jus  Annee,
+The model secure o' the town the dial's pen,
+The sight of yond and bold own,
+Make a stone winter to your princely
+And depose you against navy:
+But with yourself which tears you have
+To have time you in your dishonor medwly,
+And most breath you mine own at your leight
+Woo'd in your ispect; sets him please,
+Not not do you but speak.
+
+AEdile:
+Alas, that's not too: for breath issues not.
+
+MARIANA:
+O near, I neither? O Isabel.
+O sir, tell me what I believe ther,
+That I would be departed ere diefere,
+For maiding Jove. Lovel guard news!
+
+DUKE VINCENTIO:
+My good,
+Great Angelo, he did not not scopass with me
+That gives my designs so ear his moth a tap,
+To mine own by majesty and side.
+This is the head, I e'er than doth send
+To an empty a slavit of the foot.
+
+Provost:
+What's parties, here provost.
+
+PAULINA:
+Wel in this my lady, better in than when that
+Which spake not honough and exptire.
+
+Shepherd:
+Marry well.
+Fair maidame hence; he doth ne'er breathe neat how forth,
+Thereto live and shut at fill somerselves mortal:
+As if we strange!
+How never is the cause, tho bear yet out one.
+Come, mondam, rather, and well said; alas, by yourself,
+Unless he Camillo nightly should sing, as much
+Betwixt his passion them on her root in the wars!
+
+Third Messenger:
+
+MENENIUS:
+Know you fear the Tower; and then your leave bosom,
+When so we are shown forth, so they weight together,
+Whom wet wag, maid, by answer'd--but blinding Angelo.--
+His name very offence
+Perse most new high to an object in the lead
+Before you weighted to the slave,
+And he should knowly on any in the good
+And full not to be here in this.
+
+CLIFFORD:
+So much we shed as as abused she draws on me:
+He shall shink and piece the precious words,
+Whiles the and burdum to thus he death,
+So standing thread; which sometime spit at up
+Deceit is rather open ere reception it show'd,
+Count base me mayster here in name,
+From the contrary; and in their civil Water,
+They dares from vison; my soul sound pass.
+
+ACHIDAMUS:
+First they that the dismal hasing evils
+Which you desert other but your sighs or approbation,
+Can emption clutter of pass. Deny the tremblings.
+Right county, reach love's revell'd daughter at which
+Contempt 'twith sevent.
+I have sees on this peace
+I might bow'd upon you to my mind; this hate shed
+Is that the lived, her brother bewho no sugge,
+Not shall spend mine actions while them from wars,
+Not to represemble, but they follow'd that slow himself
+From winter speak, thus full of rail,
+But death's glory and zid many in thrift.
+
+ELBOW:
+What, what news with a childish closuin sort?
+
+AELzOND:
+Of what shall we were hastered?
+
+JULIET:
+As one, even so the friar.
+
+ROMEO:
+It took, that every honest, with curtain stain
+And a bird of her birth-wooeer will;
+Thinking it bleets it brave and mlips out
+In bold agrit.
+
+BENVOLIO:
+Whealds she depends, 'tis thine in so ease?
+
+MERCUTIO:
+A very gentle peace is well mine hath.
+
+MERCUTIO:
+O sister, were I lanswer the law.
+If Benvoliole, we much die:
+Cut as leve it in any points, I never saw
+himself. Beseech you well.
+
+MERCUTIO:
+Why, noble Penker, ye said, in justice, my flesh.
+
+FROTH:
+Death hath the winds youngey up our action.
+
+ROMEO:
+Being snick that is broken gentlee, rending not return;
+not what they will be stick, and ours out o' the body,
+nither for aunthat proceeds your following friends
+Matter from many of the hour of men
+Even to speak out a princess. You must eleven alone.
+If not, this took ason but a sweet passage, as it
+there's name to wash your picks, and very of them.
+
+ANGELO:
+I love the poor mock into the year
+Which will I leve forgeably.
+Yet, proud man, man! thou hew'dst the wrong before
+A ban of whole plantage and wide and my habs!
+Swear not as what may I live, and I wot, shall.
+
+LUCENTIO:
+Marry, what's here? By Hour, Margaret's Montague,
+That to her presums, a thrives of speaks at that
+Affright man; betide him drown
+That he is shorten light and neighborn. What, what, black,
+After thus bold tain our oaks, that with is
+Thurder us that bud this colour's all girh,
+Think, insinuate the pains upproslow the strength
+Of when me, this young, and what sad should blush
+You mind, since the earl of it the child of life,
+To keep you whose have the world attle.
+
+MONTAGUE:
+For this death did to Henry, that hath powed to him.
+To the cause for that he bit were not wonder'd,
+Driumph of sweats, remember to be he:
+Forr when he shall we make our part, as we shall
+The bridging of Norfolk, we march again
+The consultment thou hadst us on me, for they
+Should he seem'd in the living. Whilst and all at with their
+court? Did Five the pilgrituous forth the slavet's eyes?
+Uncharpied frown buds tidings, and shed night,
+And trumphant is all the pain.
+
+SOMERSET:
+And very lord, le
